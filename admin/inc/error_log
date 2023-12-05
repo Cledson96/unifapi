@@ -1,0 +1,9 @@
+[15-Feb-2023 09:22:04 America/Sao_Paulo] PHP Notice:  Undefined variable: new_name in /home/metrorns/public_html/admin/inc/functions-obras.php on line 89
+[15-Feb-2023 09:46:34 America/Sao_Paulo] PHP Notice:  Undefined variable: new_name in /home/metrorns/public_html/admin/inc/functions-obras.php on line 89
+[16-Feb-2023 09:54:58 America/Sao_Paulo] PHP Notice:  Undefined variable: new_name in /home/metrorns/public_html/admin/inc/functions-obras.php on line 65
+[16-Feb-2023 10:01:57 America/Sao_Paulo] PHP Notice:  Array to string conversion in /home/metrorns/public_html/admin/inc/functions.php on line 28
+[16-Feb-2023 10:01:57 America/Sao_Paulo] PHP Notice:  Array to string conversion in /home/metrorns/public_html/admin/inc/functions.php on line 28
+[20-Feb-2023 16:31:27 UTC] PHP Notice:  Undefined variable: id in /home/metrorns/public_html/admin/inc/deletar_obras.php on line 6
+[20-Feb-2023 16:31:29 UTC] PHP Notice:  Undefined variable: id in /home/metrorns/public_html/admin/inc/deletar_obras.php on line 6
+[06-Nov-2023 23:14:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'unifapi_usr'@'localhost' to database 'metrorns_bd' in /home/unifapi/public_html/admin/inc/db_connection.php on line 17
+[06-Nov-2023 23:14:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'unifapi_usr'@'localhost' to database 'metrorns_bd' in /home/unifapi/public_html/admin/inc/db_connection.php on line 19
